@@ -18,18 +18,18 @@ Please, take into account this is just a fun project. Be aware of its limitation
 
 I tried it with an audio of my own and below you can see the results.
 
-<span>
-  <img src='./images/input_voice_embedding.png' width="360" height="360"> 
-  <img src='./images/top5.png' width="640" height="360"> 
-</span>
+<p align="center">
+  <img align="center" src='./images/input_voice_embedding.png' width="360" height="360"> 
+  <img align="center" src='./images/top5.png' width="640" height="360"> 
+</p>
 
 
 # Dataset
 
-The dataset used is VoxCeleb1 and can be found [here](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html).
+The dataset used is VoxCeleb1 and can be found [here](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html).       
+The whole dataset's size is +30GB and contais lots of audios fom each celebrity.  
 
-The whole dataset's size is +30GB and contais lots of audios fom each celebrity. 
-To make it simple, I only kept 1 audio per celebrity. 
+To make it simple, I only kept 1 audio per celebrity.       
 I also processed and embeded all of them and saved it all in a single file (*embeded_voices.npy*) of 1.3MB that I could upload here.
 
 
