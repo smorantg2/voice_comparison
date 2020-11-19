@@ -16,6 +16,8 @@ Then, using cosine similarity it compares your voice with 1251 celebrities and t
 
 Please, take into account this is just a fun project. Be aware of its limitations.
 
+## Results
+
 I tried it with an audio of my own and below you can see the results.
 
 <p align="center">
